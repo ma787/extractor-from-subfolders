@@ -55,4 +55,5 @@ def main():
     move_files(path, destination, extensions, copy=chose_copy)
 
 
-main()
+if __name__ = "__main__":
+    main()
